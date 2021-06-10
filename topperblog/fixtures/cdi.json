@@ -1,0 +1,204 @@
+[
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 2,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Interest",
+        "title": "Interest",
+        "base_url": "interests",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 3,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Industry",
+        "title": "Industries",
+        "base_url": "industries",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 4,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Goal",
+        "title": "Top Goals",
+        "base_url": "goals",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 5,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Stage",
+        "title": "Blogger Stage",
+        "base_url": "stages",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 6,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "User",
+        "title": "Blogger",
+        "base_url": "users",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 7,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Tag",
+        "title": "Post Tags",
+        "base_url": "tags",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 8,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Category",
+        "title": "Post Categories",
+        "base_url": "categories",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 9,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Post",
+        "title": "Post",
+        "base_url": "posts",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": false
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 10,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "PostView",
+        "title": "Post Views",
+        "base_url": "postviews",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 11,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Comment",
+        "title": "Post Comments",
+        "base_url": "comments",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 12,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Like",
+        "title": "Post likes",
+        "base_url": "likes",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 13,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Favourite",
+        "title": "Favourite Posts",
+        "base_url": "favourites",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 14,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "NewsletterSubscriber",
+        "title": "Newsletter",
+        "base_url": "newsletters",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activeadminmodel",
+    "pk": 15,
+    "fields": {
+        "app_level": "blog",
+        "model_name": "Contact",
+        "title": "Messages",
+        "base_url": "contacts",
+        "is_active": true,
+        "icon_name": "fa fa-building",
+        "admin": true
+    }
+},
+{
+    "model": "cdi.activecompany",
+    "pk": 7,
+    "fields": {
+        "entry_name": "circledi",
+        "email": "md2384247@gmail.com",
+        "phone": "01772403336",
+        "title": null,
+        "tagline": null,
+        "address": "Dhaka",
+        "zip_postal_code": "1229",
+        "about": null,
+        "license_key": "ALDKFJSDKLFJD",
+        "active_period": "nan",
+        "domain": "127.0.0.1:8888",
+        "is_active": true,
+        "create_date": "2021-03-30T18:41:44.562Z",
+        "update_date": "2021-03-30T18:41:44.562Z"
+    }
+}
+]

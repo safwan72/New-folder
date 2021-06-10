@@ -1,0 +1,79 @@
+{
+    "title": "BlogDi",
+    "about": "Scanfcode.com CODE WANTS TO BE SIMPLE is an initiative to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.",
+    "copyright": "BlogDi",
+    "social_links": {
+        "facebook": "https://facebook.com/cdiltd",
+        "linkedin": "https://linkedin.com/in/njnafir",
+        "twitter": "https://twitter.com/njnafir"
+    },
+    "home_header": "Explore new perspectives",
+    "home_summary": "Read and share ideas from independent voices, world-class publications, and experts from around the globe. Everyone's welcome.",
+    "popular_post_title": "Popular Posts",
+    "popular_post_summary": "People are viewing this trending posts over the time",
+    "total_popular_post": 6,
+    "home_total_post": 10,
+    "header_menu_options": [
+        {
+            "title": "Home",
+            "url": "/"
+        },
+        {
+            "title": "About",
+            "url": "/about"
+        },
+        {
+            "title": "Contact",
+            "url": "/contact"
+        }
+    ],
+    "total_top_industries": 6,
+    "quick_links": [
+        {
+            "title": "Control Panel",
+            "url": "/admin"
+        },
+        {
+            "title": "About Us",
+            "url": "/about"
+        },
+        {
+            "title": "Contact Us",
+            "url": "/contact"
+        },
+        {
+            "title": "Contribute",
+            "url": "https://circledi.com/contribute/"
+        },
+        {
+            "title": "Privacy Policy",
+            "url": "https://circledi.com/privacy-policy/"
+        }
+    ],
+    "top_industries": [
+        {
+            "title": "New Industy",
+            "url": "/industry/New-industry"
+        },
+        {
+            "title": "Cow",
+            "url": "/industry/Cow"
+        },
+        {
+            "title": "Fish",
+            "url": "/industry/Fish"
+        },
+        {
+            "title": "Jute",
+            "url": "/industry/Jute"
+        },
+        {
+            "title": "Sales",
+            "url": "/industry/Sales"
+        },
+        {
+            "title": "Software",
+            "url": "/industry/Software"
+        }
+    ]
+}
